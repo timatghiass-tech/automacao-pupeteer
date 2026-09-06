@@ -1,28 +1,29 @@
-# 🤖 Automação Web com Puppeteer
+# 🤖 Web Automation with Puppeteer
 
-Projeto de automação e web scraping desenvolvido em **Node.js** utilizando a biblioteca **Puppeteer**. O script interage de forma automatizada com páginas web, realiza pesquisas, captura telas (screenshots) e extrai dados estruturados salvando-os em formato JSON.
-
----
-
-## 🚀 Funcionalidades
-
-- Navegação headless e automatizada em páginas web
-- Captura de screenshots de páginas carregadas
-- Extração de dados da web e armazenamento em arquivos `.json`
-- Tratamento de seletores de elementos e requisições
+A web automation and data scraping project developed in Node.js using Puppeteer. The script autonomously navigates web pages, performs search queries, captures viewport screenshots, and extracts structured data into JSON files.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Key Features
 
-- **JavaScript / Node.js**
-- **Puppeteer** (Headless Chrome Node.js API)
-- **Git & GitHub** (Controle de versão e repositório)
+* **Headless Navigation:** Fast, unattended web browsing and interaction.
+* **Automated Screenshots:** Full and viewport screen capture routines.
+* **Structured Data Ingestion:** Automated data extraction exported to cleanly formatted `.json` files.
+* **DOM Selector Handling:** Reliable DOM query evaluation, element manipulation, and event handling.
 
 ---
 
-## 📦 Como Rodar o Projeto
+## 🛠️ Tech Stack
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/timatghiass-tech/automacao-pupeteer.git](https://github.com/timatghiass-tech/automacao-pupeteer.git)
+* **Language / Runtime:** JavaScript / Node.js
+* **Automation Library:** Puppeteer (Headless Chrome Node.js API)
+* **Version Control:** Git & GitHub
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone [https://github.com/timatghiass-tech/automacao-pupeteer.git](https://github.com/timatghiass-tech/automacao-pupeteer.git)
+cd automacao-pupeteer
